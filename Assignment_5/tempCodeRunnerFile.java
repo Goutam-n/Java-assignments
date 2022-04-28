@@ -1,0 +1,1 @@
+new Student("Anshul","26/09/2000","Indore","MP",452009,"India")
